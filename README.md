@@ -1,5 +1,8 @@
 # STAIR-CASE-WIRING
 
+Sofiya.R (212223210029)
+
+
 AIM
 To control the status of the given lamp by using two – way switches.
 
@@ -45,4 +48,5 @@ Tabulation 2
 
 Result: 
 
+Thus the staircase wiring is connected and tested.
 
